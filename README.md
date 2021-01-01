@@ -1,0 +1,1 @@
+# kneipe-schlagen-map
